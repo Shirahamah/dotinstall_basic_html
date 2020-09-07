@@ -95,7 +95,7 @@ https://dotinstall.com/lessons/basic_html_tags_v2
 - table
 - thead、tbody
 - tr
-- th、td
+- th、td  
 成果物　https://shirahamah.github.io/dotinstall_basic_html/14
 
 ## 15 リンクを張ってみよう 
@@ -137,3 +137,17 @@ https://dotinstall.com/lessons/basic_html_tags_v2
 成果物　https://shirahamah.github.io/dotinstall_basic_html/19  
 コメント  
 文章のマークアップについては、実際に手を動かして慣れていきたい。
+
+## 20 article､timeタグを使ってみよう
+- article
+- time  
+成果物　https://shirahamah.github.io/dotinstall_basic_html/20  
+コメント  
+タグの使い方を覚える。
+
+## 21 div、spanタグを使ってみよう
+- div
+- span  
+成果物　https://shirahamah.github.io/dotinstall_basic_html/21  
+コメント  
+div、spanの使い分け、使い方を覚える。
