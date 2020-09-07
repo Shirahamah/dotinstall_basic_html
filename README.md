@@ -98,11 +98,18 @@ https://dotinstall.com/lessons/basic_html_tags_v2
 - th、td
 成果物　https://shirahamah.github.io/dotinstall_basic_html/14
 
-## 15 リンクを張ってみよう (02:44)
+## 15 リンクを張ってみよう 
 - a
 - 外部サイトへのリンク
 - target属性
 - 動作確認
-成果物　https://shirahamah.github.io/dotinstall_basic_html/15
+成果物　https://shirahamah.github.io/dotinstall_basic_html/15  
 コメント  
 リンクはメルマガ作成でも触ったことがあったので、大丈夫そうです。
+
+## 16別ファイルへのリンクを作ろう
+- 別ファイルへのリンク
+- 動作確認
+成果物　https://shirahamah.github.io/dotinstall_basic_html/16  
+コメント  
+相対パスの書き方、ファイルの位置関係を意識します。
