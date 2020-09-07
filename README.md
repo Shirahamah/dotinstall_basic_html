@@ -158,6 +158,6 @@ div、spanの使い分け、使い方を覚える。
 - 属性
 - HTML要素リファレンス  
 成果物　なし  
-- MDNサイト https://developer.mozilla.org/ja/
+- MDNサイト https://developer.mozilla.org/ja/  
 コメント  
 HTMLを記述する際、使い方や知りたいことがあればリファレンスを確認する。
