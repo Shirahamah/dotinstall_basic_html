@@ -113,3 +113,10 @@ https://dotinstall.com/lessons/basic_html_tags_v2
 成果物　https://shirahamah.github.io/dotinstall_basic_html/16  
 コメント  
 相対パスの書き方、ファイルの位置関係を意識します。
+
+## 17 ページ内リンクを作ろう
+- id属性とページ内リンクの指定方法
+- ページ内リンクに関する注意点
+成果物　https://shirahamah.github.io/dotinstall_basic_html/16  
+コメント  
+識別子はよく見るので使えるように覚える。
