@@ -97,3 +97,12 @@ https://dotinstall.com/lessons/basic_html_tags_v2
 - tr
 - th、td
 成果物　https://shirahamah.github.io/dotinstall_basic_html/14
+
+## 15 リンクを張ってみよう (02:44)
+- a
+- 外部サイトへのリンク
+- target属性
+- 動作確認
+成果物　https://shirahamah.github.io/dotinstall_basic_html/15
+コメント  
+リンクはメルマガ作成でも触ったことがあったので、大丈夫そうです。
