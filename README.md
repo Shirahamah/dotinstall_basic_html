@@ -86,3 +86,14 @@ https://dotinstall.com/lessons/basic_html_tags_v2
 - ul、li
 - dl、dt、dd  
 成果物　https://shirahamah.github.io/dotinstall_basic_html/12
+
+## 13 表を表現してみよう
+- 表の表現方法
+成果物　なし
+
+## 14 tableタグで表を作ってみよう
+- table
+- thead、tbody
+- tr
+- th、td
+成果物　https://shirahamah.github.io/dotinstall_basic_html/14
