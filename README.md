@@ -151,3 +151,13 @@ https://dotinstall.com/lessons/basic_html_tags_v2
 成果物　https://shirahamah.github.io/dotinstall_basic_html/21  
 コメント  
 div、spanの使い分け、使い方を覚える。
+
+## 22 MDNでHTMLの仕様を確認しよう
+- MDN
+- 許可された内容、許可された親要素
+- 属性
+- HTML要素リファレンス  
+成果物　なし  
+- MDNサイト https://developer.mozilla.org/ja/
+コメント  
+HTMLを記述する際、使い方や知りたいことがあればリファレンスを確認する。
