@@ -120,3 +120,9 @@ https://dotinstall.com/lessons/basic_html_tags_v2
 成果物　https://shirahamah.github.io/dotinstall_basic_html/16  
 コメント  
 識別子はよく見るので使えるように覚える。
+
+## 18 文章の構造を見やすくしよう
+- 意味のあるまとまりに使えるタグ
+成果物　なし
+コメント  
+用途に合ったタグの種類、使い方を覚える。
