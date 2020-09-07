@@ -88,7 +88,7 @@ https://dotinstall.com/lessons/basic_html_tags_v2
 成果物　https://shirahamah.github.io/dotinstall_basic_html/12
 
 ## 13 表を表現してみよう
-- 表の表現方法
+- 表の表現方法  
 成果物　なし
 
 ## 14 tableタグで表を作ってみよう
@@ -102,27 +102,38 @@ https://dotinstall.com/lessons/basic_html_tags_v2
 - a
 - 外部サイトへのリンク
 - target属性
-- 動作確認
+- 動作確認  
 成果物　https://shirahamah.github.io/dotinstall_basic_html/15  
 コメント  
 リンクはメルマガ作成でも触ったことがあったので、大丈夫そうです。
 
 ## 16別ファイルへのリンクを作ろう
 - 別ファイルへのリンク
-- 動作確認
+- 動作確認  
 成果物　https://shirahamah.github.io/dotinstall_basic_html/16  
 コメント  
 相対パスの書き方、ファイルの位置関係を意識します。
 
 ## 17 ページ内リンクを作ろう
 - id属性とページ内リンクの指定方法
-- ページ内リンクに関する注意点
+- ページ内リンクに関する注意点  
 成果物　https://shirahamah.github.io/dotinstall_basic_html/16  
 コメント  
 識別子はよく見るので使えるように覚える。
 
 ## 18 文章の構造を見やすくしよう
 - 意味のあるまとまりに使えるタグ
-成果物　なし
+成果物　なし  
 コメント  
 用途に合ったタグの種類、使い方を覚える。
+
+## 19 文書の構造をマークアップしてみよう
+- header
+- footer
+- nav
+- aside
+- main
+- section  
+成果物　https://shirahamah.github.io/dotinstall_basic_html/19  
+コメント  
+文章のマークアップについては、実際に手を動かして慣れていきたい。
