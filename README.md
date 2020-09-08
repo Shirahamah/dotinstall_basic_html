@@ -273,8 +273,11 @@ https://dotinstall.com/lessons/basic_html_tags_v2/51022
 ### 成果物  
 - なし
 
-講座内での成果物はなかったが[MDNサイト](https://developer.mozilla.org/ja/)を見て、HTMLの仕様を学んだ。
-
+講座内での成果物はなかったが[MDNサイト](https://developer.mozilla.org/ja/)を見て、HTMLの仕様を学んだ。  
+MDNサイトを見て覚えたこと（理解した事）は以下
+-  [ HTML の見出し要素 - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/ja/docs/Web/HTML/Element/Heading_Elements)
+- MDNサイトの検索BOXの使い方
+- 
 
 ### コメント    
 HTMLを記述する際、使い方や知りたいことがあればリファレンスを確認する。
